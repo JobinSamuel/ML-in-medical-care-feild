@@ -1,4 +1,4 @@
-# ML-in-medical-care-feild
+# ML-in-medical-care-field
 These years, with artificial intelligence and machine learning becoming the hotspot of research, several applications have emerged in each of these areas. It exists not only as a kind of academic frontier but also something close to our life. In this trend, the combination of medical care and machine learning becomes more and more tighter. 
 The proposal of its main idea also greatly elevated the existing situation of unbalanced medical distribution and resources train.
 Today, machine learning is helping to streamline administrative processes in hospitals, map and treat infectious diseases and personalize medical treatments. With the help of machine learning, Quotient Health developed software that aims to “reduce the cost of supporting EMR [electronic medical records] systems” by optimizing and standardizing the way those systems are designed. The goal is improved care at a lower cost.
